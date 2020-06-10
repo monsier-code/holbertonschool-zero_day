@@ -1,0 +1,1 @@
+Proyecto vagrant 0x0.0, en este proyecto nos demando ultilizar aprender a ultilizar la maquina virtual en mi caso,  Tambien nos pidio ultilizar comandos de linux, y a manejar un poco github y git, para poder realizar el reto.
